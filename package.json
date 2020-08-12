@@ -1,0 +1,32 @@
+{
+  "name": "web-excel",
+  "version": "1.0.0",
+  "description": "web-excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novikov-an/learning-js-web-excel.git"
+  },
+  "keywords": [
+    "excel",
+    "js",
+    "javascript",
+    "learning"
+  ],
+  "author": "Novikov Aleksey <novikov_9292@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novikov-an/learning-js-web-excel/issues"
+  },
+  "homepage": "https://github.com/novikov-an/learning-js-web-excel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "4.44.1",
+    "webpack-cli": "3.3.12"
+  }
+}
